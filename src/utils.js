@@ -1,4 +1,4 @@
-import { Feed } from 'feed'
+import { Feed } from '@clarityhub/feed'
 import urlJoin from 'url-join'
 
 const buildFeed = ({ site, items, name, options = {} }) => {

@@ -1,4 +1,4 @@
-# gatsby-plugin-feed-generator
+# clarityhub/gatsby-plugin-feed-generator
 
 A [Gatsby](https://gatsbyjs.org) plugin to generate [JSON Feed](https://jsonfeed.org/) and RSS feeds for generated [Gatsby](https://gatsbyjs.org) sites.
 
@@ -7,7 +7,7 @@ A [Gatsby](https://gatsbyjs.org) plugin to generate [JSON Feed](https://jsonfeed
 To get started, install via yarn or npm:
 
 ```bash
-yarn add gatsby-plugin-feed-generator
+yarn add @clarityhub/gatsby-plugin-feed-generator
 ```
 
 Basic setup requires the following minimum siteMetaData located in your `gatsby-config.js` file:

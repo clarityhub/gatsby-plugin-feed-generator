@@ -2,6 +2,13 @@
 # yarn lockfile v1
 
 
+"@clarityhub/feed@^4.1.0":
+  version "4.1.0"
+  resolved "https://registry.yarnpkg.com/@clarityhub/feed/-/feed-4.1.0.tgz#03713b333fee1c3d7959b001ef3350206e7d2611"
+  integrity sha512-aJz2h1zA2ikFROZ0+PE58sNzZDf+LOpp5gGAUeVzQqOYsfkPcBs7XttryX/5kDXTgsP4Z4uSAE6UnBnu5vV2kw==
+  dependencies:
+    xml-js "^1.6.11"
+
 abbrev@1:
   version "1.1.0"
   resolved "https://registry.yarnpkg.com/abbrev/-/abbrev-1.1.0.tgz#d0554c2256636e2f56e7c2e5ad183f859428d81f"
@@ -872,13 +879,6 @@ extglob@^0.3.1:
 extsprintf@1.3.0, extsprintf@^1.2.0:
   version "1.3.0"
   resolved "https://registry.yarnpkg.com/extsprintf/-/extsprintf-1.3.0.tgz#96918440e3041a7a414f8c52e3c574eb3c3e1e05"
-
-feed@^3.0.0:
-  version "3.0.0"
-  resolved "https://registry.yarnpkg.com/feed/-/feed-3.0.0.tgz#be9cada49c692197e7e14083711597562d14a486"
-  integrity sha512-2/6RGigcsZkz04LMs8oncuoN08hCOndz7eseLtbSitvIkjDZPkNZY6Y9C2xgTzy1L8u4+TZvCJ/v5zxlmGy2kA==
-  dependencies:
-    xml-js "^1.6.11"
 
 filename-regex@^2.0.0:
   version "2.0.1"

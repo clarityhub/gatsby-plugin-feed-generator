@@ -1,6 +1,6 @@
 import React from 'react'
 import urlJoin from 'url-join'
-import { withPrefix } from 'gatsby'
+
 exports.onRenderBody = ({ setHeadComponents }, pluginOptions) => {
   const { rss, json, feeds, baseUrl } = pluginOptions
   let output = []
